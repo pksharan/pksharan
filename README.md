@@ -1,4 +1,5 @@
-<img align="center" src="https://github.com/pksharan/pksharan/blob/main/3102.gif" />
+![logo](https://github.com/pksharan/pksharan/blob/main/3102.gif)
+<h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <h3 align="center">A passionate security analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pksharan&label=Profile%20views&color=0e75b6&style=flat" alt="pksharan" /> </p>
