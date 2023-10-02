@@ -1,4 +1,4 @@
-![logo](https://github.com/pksharan/pksharan/blob/main/3102.gif)
+![logo align="center"](https://github.com/pksharan/pksharan/blob/main/3102.gif)
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <h3 align="center">A passionate security analyst from India</h3>
 
