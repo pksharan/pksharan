@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [AWS - Threat Detection and Automated Prevention Management](https://github.com/MannThomare/DitissProject)
 
-- 🌱 I’m currently learning **Google Cybersecurity Certificate**
+- 🌱 I’m currently learning **Certified Ethical Hacker - EC Council**
 
 - 📫 How to reach me **prashantkumar171@gmail.com**
 
