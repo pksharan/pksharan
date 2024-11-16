@@ -1,14 +1,16 @@
-![logo](https://github.com/pksharan/pksharan/blob/main/3102.gif)
+<p align="center"> <img src="https://github.com/pksharan/pksharan/blob/main/3102.gif" alt="logo" /> </p>
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
-<h3 align="center">A passionate security analyst from India</h3>
+<h3 align="center">A passionate cyber security enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pksharan&label=Profile%20views&color=0e75b6&style=flat" alt="pksharan" /> </p>
 
-- 🔭 I’m currently working on [AWS - Threat Detection and Automated Prevention Management](https://github.com/MannThomare/DitissProject)
+- 💼 I’m currently working as Security Signature Engineer at Qualys.
+
+- 🔭 My recent project is [AWS - Threat Detection and Automated Prevention Management](https://github.com/MannThomare/DitissProject)
 
 - 🌱 I’m currently learning **Certified Ethical Hacker - EC Council**
 
-- 📫 How to reach me **prashantkumar171@gmail.com**
+- 📫 You can reach me at **prashantkumar171@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
